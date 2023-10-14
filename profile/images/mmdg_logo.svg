@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="337"
-   height="342"
-   viewBox="0 0 337 342"
+   width="102.25378"
+   height="100.3423"
+   viewBox="0 0 102.25378 100.3423"
    sodipodi:docname="mmdg_logo.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -50,7 +50,8 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g8">
+     id="g8"
+     transform="translate(-121.71247,-117.88756)">
     <image
        width="337"
        height="342"
