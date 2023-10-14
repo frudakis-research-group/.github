@@ -16,9 +16,9 @@ In addition, the group has considerable experience in **high–accuracy ab–ini
 ## 🔭 Main Research Areas
 Our research focuses on:
 
-* Material informatics
-* Light gas adsoption and separation from nanoporous manterials
-* Drug delivery
+* **Material informatics**
+* **Light gas adsoption and separation from nanoporous manterials**
+* **Drug delivery**
 
 For more information 👉 [our official website](https://www.chemistry.uoc.gr/frudakis/index.htm).
 
