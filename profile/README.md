@@ -41,10 +41,6 @@ For more information, please visit [our official website](https://www.chemistry.
 
 </h4>
 
-<p align="center"> 
-  Python package for parallel calculation of energy voxels.
-</p>
-
 Usefull links:
 * 🏠 [Homepage](https://github.com/frudakis-research-group/moxel)
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
