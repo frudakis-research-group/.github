@@ -24,7 +24,7 @@ For more information 👉 [our official website](https://www.chemistry.uoc.gr/fr
 
 ## 🚀 Software
 
-### MOXελ
+#### MOXελ: Python package for parallel calculation of energy voxels
 
 <h4 align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/adosar/moxel/master/docs/source/images/moxel_logo.svg" width="40%"/>
