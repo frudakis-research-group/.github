@@ -18,6 +18,8 @@ Our research focuses on:
 * Light gas adsoption and separation from nanoporous manterials
 * Drug delivery
 
+For more information, please visit [our official website](https://www.chemistry.uoc.gr/frudakis/index.htm).
+
 ## 🚀 Software
 
 ### MOXελ
