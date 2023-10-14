@@ -9,7 +9,9 @@ MMDG is supervised by Professor [George E. Froudakis](https://scholar.google.gr/
   <img align="center" alt="CompChem" src="https://raw.githubusercontent.com/frudakis-research-group/.github/main/profile/images/c2h4a.gif" width="25%"/>
 </p>
 
-The MMDG group has broad experience in modeling nanomaterials. **Multi-scale computational techniques** are developed in-house and used for simulating large systems with accurate quantum chemistry methods. Most simulations are based on Density Functional Theory (DFT) and Monte Carlo methodology. In addition, the group has considerable experience in **high–accuracy ab–initio techniques** (MP2–4, CC, CAS–SCF, MRDCI) for the study of structural, bonding, electronic and spectroscopic properties of molecules and clusters. Recently, a new computational methodology for large-scale screening of materials with the use of **Machine Learning** algorithms (ML) was developed.
+The MMDG group has broad experience in modeling nanomaterials. **Multi-scale computational techniques** are developed in-house and used for simulating large systems with accurate quantum chemistry methods. Most simulations are based on Density Functional Theory (DFT) and Monte Carlo methodology. 
+
+In addition, the group has considerable experience in **high–accuracy ab–initio techniques** (MP2–4, CC, CAS–SCF, MRDCI) for the study of structural, bonding, electronic and spectroscopic properties of molecules and clusters. Recently, a new computational methodology for large-scale screening of materials with the use of **Machine Learning** algorithms (ML) was developed.
 
 ## 🔭 Main Research Areas
 Our research focuses on:
