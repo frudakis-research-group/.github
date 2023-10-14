@@ -41,6 +41,6 @@ For more information 👉 [our official website](https://www.chemistry.uoc.gr/fr
 
 </h4>
 
-Usefull links:
+Useful links:
 * 🏠 [Homepage](https://github.com/frudakis-research-group/moxel)
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
