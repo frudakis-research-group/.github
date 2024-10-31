@@ -20,7 +20,7 @@ Our research focuses on:
 * **Light gas adsoption and separation from nanoporous manterials**
 * **Drug delivery**
 
-For more information 👉 [our official website](https://www.chemistry.uoc.gr/frudakis/index.htm).
+For more information 👉 [our official website](https://www.chemistry.uoc.gr/mmdg/).
 
 # 🚀 Software
 
