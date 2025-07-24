@@ -72,19 +72,22 @@ Useful links:
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
 
 ### MOFSynth: Python package for MOF synthesizability evaluation
+
 <h1 align="center">
 <!--   <img alt="Logo" src="https://raw.githubusercontent.com/livaschar/mofsynth/main/docs/source/images/final_grey-removebg-preview.png" style="width: 500px;"/> -->
 <!--   <img alt="Logo" src="https://github.com/livaschar/mofsynth/blob/main/docs/source/images/final_grey-removebg-preview.png" style="width: 500px;"/> -->
-  <img alt="Logo" src="https://github.com/livaschar/mofsynth/blob/main/docs/source/images/mofsynth_logo.svg" style="width: 500px;"/>
+<!--   <img alt="Logo" src="https://github.com/livaschar/mofsynth/blob/main/docs/source/images/mofsynth_logo.svg" style="width: 500px;"/> -->
+  <img alt="Logo" src="https://github.com/livaschar/mofsynth/blob/main/docs/source/images/synth_logo_v3.png" style="width: 500px;"/>
 </h1>
-
 
 <h4 align="center">
 
-[![Requires Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=yellow&label=Python&labelColor=black&color=blue)](https://www.python.org/downloads/)
-[![Read the Docs](https://img.shields.io/badge/stable-green?logo=readthedocs&logoColor=blue&label=Read%20the%20Docs&labelColor=black)](https://mofsynth.readthedocs.io)
-[![Documentation Status](https://readthedocs.org/projects/mofsynth/badge/?version=latest)](https://mofsynth.readthedocs.io/en/latest/?badge=latest)
-[![Licensed under GPL-3.0-only](https://img.shields.io/badge/GPL--3.0--only-gold?label=License&labelColor=black)](https://spdx.org/licenses/GPL-3.0-only.html)
+[![Requires Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-g?logo=python&logoColor=blue&label=Python&labelColor=black)](https://www.python.org/downloads/)
+[![Read the Docs](https://img.shields.io/badge/latest-b?logo=readthedocs&logoColor=blue&label=Read%20the%20Docs&labelColor=black)](https://mofsynth.readthedocs.io)
+[![PyPI](https://img.shields.io/badge/PyPI%20-%20v%202.0.0%20-b?style=flat&logo=pypi&logoColor=blue&logoSize=auto&label=PyPI&labelColor=black)](https://pypi.org/project/mofsynth/)
+[![Licensed under GPL-3.0-only](https://img.shields.io/badge/GPL--3.0--only-gold?label=License&labelColor=black)](https://spdx.org/licenses/GPL-3.0-only.html)  
+
+[![Online App](https://img.shields.io/badge/🔥%20MOFSYNTH%20Online-Try%20Now!-red?style=for-the-badge&labelColor=black)](https://mofsynth.website)  
 
 </h4>
 
