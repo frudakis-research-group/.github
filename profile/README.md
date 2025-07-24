@@ -113,4 +113,4 @@ Useful links:
 
 Useful links:
 * 🏠 [Homepage](https://github.com/livaschar/mofsynth)
-* 📚 [Documentation](https://mofsynth.readthedocs.io/en/stable/)
+* 📚 [Documentation](https://mofsynth.readthedocs.io/en/latest/)
